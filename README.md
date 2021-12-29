@@ -2,7 +2,7 @@
 
 The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
-## Demo
+### Demo
 ![Alt Text](https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif)
 
 ### Clone the project
