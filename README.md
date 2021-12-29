@@ -34,3 +34,6 @@ You should see the app in your browser address bar at [http://localhost:3000](ht
 
 ![Alt Text](https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif)
 
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
