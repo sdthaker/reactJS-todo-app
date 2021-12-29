@@ -5,8 +5,6 @@ The code is available in the `src` folder. In there, you’ll see two folders na
 ### Demo
 ![Alt Text](https://media.giphy.com/media/of83YDcfX3zlcGX2vr/giphy.gif)
 
-<img src="https://media.giphy.com/media/of83YDcfX3zlcGX2vr/giphy.gif" width="300" height="300" />
-
 ### Clone the project
 
 You can download or clone this project by running this command from your terminal:
