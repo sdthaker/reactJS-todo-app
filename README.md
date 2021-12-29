@@ -1,6 +1,4 @@
-## ReactJS Todo App
-
-## [Click to See the Todos App](https://sdthaker.github.io/reactJS-todo-app/)
+## [ReactJS Todo App](https://sdthaker.github.io/reactJS-todo-app/)
 
 The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
