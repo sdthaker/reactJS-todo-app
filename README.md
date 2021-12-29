@@ -1,4 +1,4 @@
-## ReactJS Todo Project
+## ReactJS Todo App
 
 ## [Click to See the Todos App](https://sdthaker.github.io/reactJS-todo-app/)
 
