@@ -31,3 +31,6 @@ npm start
 ```
 
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+
+![Alt Text](https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif)
+
