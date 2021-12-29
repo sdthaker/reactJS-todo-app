@@ -4,6 +4,9 @@
 
 The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
+## Demo
+![Alt Text](https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif)
+
 ### Clone the project
 
 You can download or clone this project by running this command from your terminal:
@@ -31,9 +34,4 @@ npm start
 ```
 
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
-
-![Alt Text](https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif)
-
-
-<img src="https://media.giphy.com/media/oisNDVTAxLRGjDbjWY/giphy.gif" width="40" height="40" />
 
