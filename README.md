@@ -9,7 +9,7 @@ The code is available in the `src` folder. In there, you’ll see two folders na
 You can download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/sdthaker/react-todo-app
+git clone https://github.com/sdthaker/reactJS-todo-app
 ```
 
 This will create a directory in the name of the project folder.
